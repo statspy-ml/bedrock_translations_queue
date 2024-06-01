@@ -1,0 +1,5 @@
+celery
+langchain_community
+boto3
+psycopg2-binary
+
